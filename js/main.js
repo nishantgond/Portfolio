@@ -389,22 +389,22 @@ const socials = [
     social(
         'GitHub',
         'fab fa-github',
-        'https://github.com/MatviyRoman'),
+        'https://github.com/nishantgond'),
 
     social(
         'Facebook',
         'fab fa-facebook',
-        'https://www.facebook.com/romas6ka'),
+        'https://www.facebook.com/nishantgond'),
 
     social(
         'Skype',
         'fab fa-skype',
-        'skype:live:romas6ka'),
+        '#'),
 
     social(
         'Viber',
         'fab fa-viber',
-        'viber:chat?number=+380938800822'),
+        '#'),
 
     // social(
     // 	'YouTube',
